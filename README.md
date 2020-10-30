@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse - aka [Webyilmaz!][website] 👋
+### Hi there, I'm Samet - aka [Webyilmaz!][website] 👋
 
 
 ## I'm a Game Developer,Programming Langauge Developer,Game Engine Developer and Software Developer!
@@ -15,11 +15,5 @@
 
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Webyilmaz's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://webylimaz.com
